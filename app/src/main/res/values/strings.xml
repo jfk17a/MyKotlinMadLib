@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Kotlin Mad Lib</string>
+    <string name="preference">Preference_Key</string>
+    <string name="name_string">Name_Value</string>
+    <string name="ing_string">ing_Value</string>
+    <string name="body_string">Body_Value</string>
+    <string name="big_string">Big_Value</string>
+    <string name="noun1_string">Noun1_Value</string>
+    <string name="item_string">Item_Value</string>
+    <string name="emotion_string">Emotion_Value</string>
+    <string name="ranking_string">Ranking_Value</string>
+    <string name="noun2_string">Noun2_Value</string>
+</resources>
